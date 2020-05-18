@@ -1,0 +1,13 @@
+__pycache__
+*.swp
+*.pyc
+*.png
+*.ipynb*
+*.gitkeep
+*.egg-info*
+*.pkl
+*.p
+./data/vectorized_descriptions.csv
+./data/embeddings/*
+./models/*
+*.log
